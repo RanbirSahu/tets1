@@ -4,7 +4,8 @@ public class A {
 
   int x=1000;
 
-ooty
+odisha
+  ooty
   Kolkata
   bengaluru
 westbengal
